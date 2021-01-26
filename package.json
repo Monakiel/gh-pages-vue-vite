@@ -1,7 +1,7 @@
 {
 	"name": "gh-pages-vue-vite",
 	"version": "0.0.0",
-	"homepage": "",
+	"homepage": "https://monakiel.github.io/gh-pages-vue-vite/",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
